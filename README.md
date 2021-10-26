@@ -4,7 +4,7 @@ https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d
 
 # #1 Create Framework
 
-![img1](img1)
+![img1.png](img1.png)
 
 # #2 Create file and write code
 
