@@ -1,6 +1,10 @@
+# Article
+
+https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270
+
 # #1 Create Framework
 
-![Screen Shot 2021-10-26 at 2.43.04 PM.png](img1)
+![img1](img1)
 
 # #2 Create file and write code
 
