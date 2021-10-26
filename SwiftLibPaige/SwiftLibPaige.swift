@@ -10,8 +10,12 @@ public final class SwiftyLib {
         return a - b
     }
     
-    public func multiply(a: Int, b: Int) -> Int {
+    public func multi(a: Int, b: Int) -> Int {
         return a * b
+    }
+    
+    public func divide(a: Int, b: Int) -> Int {
+        return a / b
     }
     
 }
